@@ -405,7 +405,7 @@ h4{
             font-size: 26px;
             font-weight: 700;
             color: #F48E28;
-            margin: 0px  848px;
+            margin: 0px  760px;
             padding-top: 50px;
             width: 84px;
         }
@@ -422,12 +422,13 @@ h4{
             margin: 0px 0px 140px 700px;
         }
         .black{
-            height: 592px;
+            height: 592px; 
             display:flex;
+            color: black;
         }
         .footeri{
             height: 570px;
-            width: 600px;
+            width: 450px;
         }
         .subscribe{
             margin: 150px 0px 0px 0px;
@@ -437,8 +438,10 @@ h4{
             width: 553px;
         }
         .sub-input{
-            margin: 20px 0px 0px 430px;
+            margin: 20px 10px 0px 430px;
             flex-direction:column-reverse;
+            padding-right: 50px;
+            
         }
         .lorem2{
             padding-top: 10px;
